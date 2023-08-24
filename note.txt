@@ -1,0 +1,14 @@
+
+
+packages 
+
+npm i phosphor-react
+npm i react-router-dom
+data descurtre 
+props handling 
+react context api
+usestate hooks
+
+
+
+
