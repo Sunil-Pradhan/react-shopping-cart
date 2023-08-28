@@ -1,8 +1,36 @@
-# React + Vite dfd
+# **React Shopping Cart**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## General info
 
-Currently, two official plugins are available:
+Simple React shopping cart demonstration. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### [Live Site](https://react-shopping-cart-100.netlify.app/)
+
+## Screenshot of the App
+
+![React Home Loan Calculator](https://ibb.co/0pLM1fR/react-7.jpg)
+
+## Technologies Used
+
+- React
+
+## Concept Demonstration
+
+- React Functional Components
+- useState Hook
+- Handling Props
+- props destructuring
+- React Contact API
+
+## Folder Structure
+
+![React Home Loan Calculator - Folder Structure](https://ibb.co/25BsWpS/react-8.jpg)
+
+## npm Packages
+
+```
+npm create vite@latest
+npm i phosphor-react
+npm i react-router-dom
+```
+
