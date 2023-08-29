@@ -8,7 +8,7 @@ Simple React shopping cart demonstration.
 
 ## Screenshot of the App
 
-![React Home Loan Calculator](https://ibb.co/0pLM1fR/react-7.jpg)
+![React Shopping Cart](https://i.ibb.co/SDgnHK4/react-7.jpg)
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ Simple React shopping cart demonstration.
 
 ## Folder Structure
 
-![React Home Loan Calculator - Folder Structure](https://ibb.co/25BsWpS/react-8.jpg)
+![React Shopping Cart - Folder Structure](https://i.ibb.co/GFjtnr9/react-8.jpg)
 
 ## npm Packages
 
