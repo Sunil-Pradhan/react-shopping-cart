@@ -24,7 +24,7 @@ Simple React shopping cart demonstration.
 
 ## Folder Structure
 
-![React Shopping Cart - Folder Structure](https://i.ibb.co/GFjtnr9/react-8.jpg)
+![React Shopping Cart - Folder Structure](x)
 
 ## npm Packages
 
